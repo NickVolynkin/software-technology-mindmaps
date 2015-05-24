@@ -34,6 +34,7 @@ A single or several mind maps on each technology can represent:
 	* Able to open documents in a single action (e.g. opening a URL).
 	* Able to separate structure from strings for localization.
 	* Text (non-binary) format, enabling the use of [diff utility](https://en.wikipedia.org/wiki/Diff_utility). 
+	* Able to attach images and links to map nodes.
 * Mind maps are essentially a representation of one's mind (or a collective mind). They are prone to subjectivity, opinions and disagreements. A strong contribution policy is required to prevent that.
 
 
