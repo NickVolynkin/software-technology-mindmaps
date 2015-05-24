@@ -29,21 +29,27 @@ A single or several mind maps on each technology can represent:
 
 * How to make a tool for making solutions, and not just another reference?
 * Which tool to use for viewing and editing mind maps? The criteria are:
-	* Opensource
+	* Free and preferrably opensource
 	* Works on all platforms
 	* Able to open documents in a single action (e.g. opening a URL).
 	* Able to separate structure from strings for localization.
 	* Text (non-binary) format, enabling the use of [diff utility](https://en.wikipedia.org/wiki/Diff_utility). 
-* Mindm aps are essentially a representation of one's mind (or a collective mind). They are prone to subjectivity, opinions and disagreements. A strong contribution policy is required to prevent that.
+* Mind maps are essentially a representation of one's mind (or a collective mind). They are prone to subjectivity, opinions and disagreements. A strong contribution policy is required to prevent that.
 
 
 ## Possible tools for working with mind maps
 
 I'm currently considering the following solutions:
 
-* [Mindmaps by David Richard](http://drichard.org/mindmaps/#): opensource, Javascript. Launches in a browser, works with cloud storages (maps can be mirrored on Google Docs). Has limited abilities in editing mind maps.
+* One of opensource office suites, maps in [OpenDocument-graphics](https://en.wikipedia.org/wiki/OpenDocument#Specifications) format. Can be mirrored on Google Docs. Can be saved for offline use. Exported to pdf and, probably, other formats. Reach abilities.
+	* [Apache OpenOffice](https://en.wikipedia.org/wiki/Apache_OpenOffice)
+	* [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) 
+
+* [Mindmaps by David Richard](http://drichard.org/mindmaps/#): opensource, Javascript. Launches in a browser, works with cloud storages (maps can be mirrored on Google Docs). Has limited abilities in editing mind maps. Easier to learn and use.
 
 * [Freemind](http://freemind.sourceforge.net/wiki/index.php/): opensource, Java. Works on all desktops, doesn't work in a browser. Has richer abilities (are they required?)
+
+
 
 
 ## Next objectives
